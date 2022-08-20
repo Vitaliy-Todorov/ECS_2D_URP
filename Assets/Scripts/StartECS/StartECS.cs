@@ -8,7 +8,7 @@ using UnityEngine.Rendering;
 
 namespace Sripts.ECS
 {
-    public partial class TestingECS : MonoBehaviour
+    public class StartECS : MonoBehaviour
     {
         [SerializeField]
         Mesh _mesh;
